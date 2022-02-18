@@ -12,7 +12,7 @@ npm install
 yarn
 ```
 
-### Second, run the client side development server:
+### 2. run the client side development server:
 
 ```bash
 npm run dev
