@@ -26,7 +26,7 @@ yarn dev
 cd backend
 ```
 
-###S 4. run the client side development server:
+### 4. run the client side development server:
 
 ```bash
 npm run dev
