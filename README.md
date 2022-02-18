@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) simple messaging application project wi
 
 To run this project on your system first download this repository and follow the instructions below:
 
-## 1. go to the project dir and install node pakages by the following command:
+### 1. go to the project dir and install node pakages by the following command:
 
 ```bash
 npm install
@@ -12,7 +12,7 @@ npm install
 yarn
 ```
 
-## Second, run the client side development server:
+### Second, run the client side development server:
 
 ```bash
 npm run dev
@@ -20,13 +20,13 @@ npm run dev
 yarn dev
 ```
 
-## 3. go to backend dir:
+### 3. go to backend dir:
 
 ```bash
 cd backend
 ```
 
-## 4. run the client side development server:
+###S 4. run the client side development server:
 
 ```bash
 npm run dev
